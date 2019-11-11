@@ -1,0 +1,22 @@
+<!-- idea colorscheme for rinse -->
+<scheme name="rinse" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2019-11-11T17:14:42</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2019.2.4.0.0</property>
+    <property name="modified">2019-11-11T17:14:47</property>
+    <property name="originalScheme">Rinse</property>
+  </metaInfo>
+  <attributes>
+    <option name="CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="67aaeb" />
+      </value>
+    </option>
+    <option name="INTERFACE_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="73cfeb" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
